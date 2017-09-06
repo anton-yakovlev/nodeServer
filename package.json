@@ -1,0 +1,12 @@
+{
+  "name": "NodeServer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Anton Yakovlev",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31"
+  }
+}
